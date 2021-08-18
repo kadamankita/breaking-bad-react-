@@ -1,3 +1,16 @@
+# Breaking-Bad-Web-App-using-ReactJS-
+Star⭐ the repo if you like what you see, Thank you!!
+In this project I have used React and the breaking bad api to create a small web application to show and filter the character info.
+
+# ## 📸 Snapshots
+![](https://github.com/kadamankita/breaking-bad-react-/blob/master/src/img/i1.png)
+![](https://github.com/kadamankita/breaking-bad-react-/blob/master/src/img/i2.png)
+![](https://github.com/kadamankita/breaking-bad-react-/blob/master/src/img/i3.png)
+![](https://github.com/kadamankita/breaking-bad-react-/blob/master/src/img/i4.png)
+
+In this project I have used React and the breaking bad api to create a small web application to show and filter the character info.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
